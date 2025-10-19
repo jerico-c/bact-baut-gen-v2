@@ -1,0 +1,21 @@
+{
+  "name": "bact-baut-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "docxtemplater": "^3.66.4",
+    "docxtemplater-image-module-free": "^1.1.1",
+    "express": "^5.1.0",
+    "image-size": "^2.0.2",
+    "multer": "^2.0.2",
+    "pizzip": "^3.2.0"
+  }
+}
